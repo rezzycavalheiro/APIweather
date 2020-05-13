@@ -1,0 +1,1 @@
+This is a simple program that reads the data from the API url and returns the temperature of the city in Celsius or the name of the street, neighborhood and city given the "CEP" (brazilian postal code).
